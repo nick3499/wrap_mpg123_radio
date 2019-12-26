@@ -1,5 +1,7 @@
 # wrap_mpg123
 
+![alt text](screen-capture.png)
+
 ## shebang/interpreter directive
 
 ```bash
