@@ -150,3 +150,5 @@ if __name__ == '__main__':
 ```
 
 When a module is used as a standalone, it's `__name__` value will be `__main__`. But if this module was imported into another module, its name would no longer be `__main__`, so it would be available, but would not start automatically.
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R72LISM)
